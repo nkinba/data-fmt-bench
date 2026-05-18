@@ -6,8 +6,12 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "duckdb>=1.5.2",
+    "fastparquet>=2026.5.0",
     "finance-datareader>=0.9.110",
+    "kagglehub>=1.0.0",
     "numpy>=2.4.4",
     "pandas>=3.0.2",
+    "plotly>=6.7.0",
     "pyarrow>=24.0.0",
+    "seaborn>=0.13.2",
 ]
